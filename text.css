@@ -1,0 +1,15 @@
+/*color == warna 
+text-align == format text / paragraf
+text-indent == identitas pada paragraf / text
+text-decoration == mendekorasi pada text
+text-transform == mrngubah jenis huruf menjadi huruf besar / kecil / kapital
+letter-spacing == mengatur spasi antar huruf
+word-spacing == mengatur spasi antar kata
+*/
+h1{
+    color: skyblue;
+    font-size: 150px;
+}
+p{
+    color: #ffffff;
+}
